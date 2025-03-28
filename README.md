@@ -1,7 +1,8 @@
 TalesVault is an interactive story-driven Cross Platform puzzle game developed for both Android and IOS. The game features a dynamic narrative system powered by the Gemini API, ensuring an adaptive storytelling experience based on user choices.
 
+![Image](https://github.com/user-attachments/assets/3b97eb9b-21b3-4009-96c0-62ab8a646b0f)
 
-It is an immersive story-driven puzzle game where players navigate mysterious rooms, solving intricate puzzles to uncover hidden secrets
+It is an immersive story-driven puzzle game where players navigate mysterious rooms, solving intricate puzzles to uncover hidden secrets. Inspired by and being fan of RPG games (like FFVI, D&D), developed a real time fantasy TPG where every choice influences the narrative, shaping a unique adventure filled with suspense, exploration, and discovery. With an interactive inventory system, players collect and use objects to progress through a dynamic storyline, unlocking new challenges and hidden truths.
 # Demo
 PS: unmute the video
 
@@ -54,4 +55,11 @@ You are now ready to [follow the run application guide for either Android or iOS
 9. **[Build Konfig](https://github.com/yshrsmz/BuildKonfig)**  
    Gradle plugin for type-safe configuration in multiplatform projects.
 
+## Contribution
+Contributions are welcome! To contribute:
 
+Fork the repository.
+Create a feature branch (git checkout -b feature-branch).
+Commit your changes (git commit -m "Add new feature").
+Push to the branch (git push origin feature-branch).
+Open a Pull Request.
