@@ -1,3 +1,11 @@
+TalesVault is an interactive story-driven Cross Platform puzzle game developed for both Android and IOS. The game features a dynamic narrative system powered by the Gemini API, ensuring an adaptive storytelling experience based on user choices.
+
+
+It is an immersive story-driven puzzle game where players navigate mysterious rooms, solving intricate puzzles to uncover hidden secrets
+# Demo
+PS: unmute the video
+
+https://github.com/user-attachments/assets/c6f656bb-6a5c-4ef2-b7ed-e97f05d43ed7
 
 # How to run the project
 
@@ -45,3 +53,5 @@ You are now ready to [follow the run application guide for either Android or iOS
 
 9. **[Build Konfig](https://github.com/yshrsmz/BuildKonfig)**  
    Gradle plugin for type-safe configuration in multiplatform projects.
+
+
